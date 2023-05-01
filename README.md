@@ -8,5 +8,6 @@ Un blog increible para el curso de Git y GitHub de Platzi.
 * Donde nacio
 * Su pareja
 * Que estudia 
+* Creado por Caco :|
 
 Este blogpost es un chiste.
